@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/holoviz/geoviews/commit/fe1ec429ba32469a252440322deca5dd0585ff33",
       "git:hexsha": "fe1ec429ba32469a252440322deca5dd0585ff33",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/holoviz/geoviews/commit/0a6a9bda28e15beebd94af200d9d0108190f5d34",
