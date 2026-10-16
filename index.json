@@ -1,0 +1,11 @@
+{
+  "org": "holoviz",
+  "repo": "geoviews",
+  "versions": [
+    {
+      "commit": "fe1ec429ba32469a252440322deca5dd0585ff33",
+      "tag": "",
+      "parsed_at": "2026-10-16T23:45:27.232661+00:00"
+    }
+  ]
+}
